@@ -6,9 +6,9 @@
 
 ```
 Currently, I'm working on:
-- Habitube App – The Movie Library 🎬
-- My Personal Website 🕷
-- Secret Project 😏
+• Habitube App – The Movie Library 🎬
+• My Personal Website 🕷
+• Secret Project 😏
 ```
 
 
