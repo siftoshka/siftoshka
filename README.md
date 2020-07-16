@@ -6,7 +6,7 @@
 
 ```
 Currently, I'm working on:
-• Habitube App – The Movie Library 🎬
+• Habitube – The Movie Library App 🎬
 • My Personal Website 🕷
 • Secret Project 😏
 ```
