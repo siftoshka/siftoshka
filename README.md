@@ -4,8 +4,8 @@
 
 #### I am a passionate android developer from Azerbaijan 🇦🇿, currently living in Czech Republic 🇨🇿. I have a big interest in developing applications 👾, which mostly related to improve our lifestyle , to solve global problems and to find new options of communication with right architecture, simple and beautiful User Interface(UI), clear User Experience(UX).
 
+### Currently, I'm working on 🛠
 ```
-Currently, I'm working on:
 • Habitube – The Movie Library App 🎬
 • My Personal Website 🕷
 • Secret Project 😏
@@ -29,6 +29,6 @@ Currently, I'm working on:
 
 <p align="right"> <b>Android Developer </b>
     <a href="https://siftoshka.me/">
-        <img align="right" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/android.svg" />
+        <img align="right" alt="Android" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/android.svg" />
     </a>
 </p>
