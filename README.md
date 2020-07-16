@@ -2,7 +2,7 @@
 
 ### A little about Myself 👇🏽
 
-#### I am a passionate android developer from Azerbaijan 🇦🇿, currently living in Czech Republic 🇨🇿. I have a big interest in developing applications 👾, which mostly related to improve our lifestyle , to solve global problems and to find new options of communication with right architecture, simple and beautiful User Interface(UI), clear User Experience(UX).
+#### Enthusiastic Android Developer from Azerbaijan 🇦🇿 living in Czech Republic 🇨🇿 with nearly 2 years of experience in designing, developing and maintaining Android Applications. Usually, keep an eye on modern approaches and innovate individual solutions.
 
 ### Currently, I'm working on 🛠
 ```
