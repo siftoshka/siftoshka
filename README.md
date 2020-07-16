@@ -27,6 +27,8 @@ Currently, I'm working on:
     <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<p align="right"> <b> Android Developer </b>
-    <img align="right" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/android.svg" />
+<p align="right"> <b>Android Developer </b>
+    <a href="https://siftoshka.me/">
+        <img align="right" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/android.svg" />
+    </a>
 </p>
