@@ -6,9 +6,9 @@
 
 ### Currently, I'm working on 🛠
 ```
+• CubeMate - Stylish Stopwatch for Speedcubing 🧩
 • Habitube – The Movie Library App 🎬
 • My Personal Website 🕷
-• Secret Project 😏
 ```
 
 
