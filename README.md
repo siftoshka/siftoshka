@@ -8,6 +8,7 @@
 ```
 • CubeMate - Stylish Stopwatch for Speedcubing 🧩
 • Habitube – The Movie Library App 🎬
+• Furrency - Converter Money to Food 🍕
 • My Personal Website 🕷
 ```
 
