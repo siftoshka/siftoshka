@@ -1,6 +1,6 @@
 ## Hi there, I'm Azad <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-### A little about Myself <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Point_Down.gif" width="15px">
+### A little about Myself 👇
 
 #### I'am an enthusiastic Android Developer from Baku, Azerbaijan 🇦🇿 living in Prague, Czech Republic 🇨🇿 with nearly 2 years of experience in designing, developing and maintaining Android Applications. Usually, keep an eye on modern approaches and innovate individual solutions.
 
@@ -11,7 +11,12 @@
 • Furrency - Converter Money to Food 🍕
 • My Personal Website 🕷
 ```
+<div>
+    <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" height="180em"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siftoshka&zsh-theme&layout=compact" />
+</div>
 
+---
 
 ### You can find me 👽
 
