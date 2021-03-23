@@ -2,18 +2,14 @@
 
 ### A little about Myself 👇
 
-#### I'am an enthusiastic Android Developer from Baku, Azerbaijan 🇦🇿 living in Prague, Czech Republic 🇨🇿 with nearly 2 years of experience in designing, developing and maintaining Android Applications. Usually, keep an eye on modern approaches and innovate individual solutions.
+#### I'am an enthusiastic Android Developer from Baku, Azerbaijan 🇦🇿 living in Prague, Czech Republic 🇨🇿 with more than 2 years of experience in designing, developing and maintaining Android Applications. Usually, keep an eye on modern approaches and innovate individual solutions.
 
 ### Currently, I'm working on 🛠
 ```
 • CubeMate - Stylish Stopwatch for Speedcubing 🧩
 • Habitube – The Movie Library App 🎬
-• Furrency - Converter Money to Food 🍕
+• Master Thesis in CTU in Prague 👨🏻‍💻
 ```
-<div>
-    <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" height="180em"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siftoshka&zsh-theme&layout=compact" />
-</div>
 
 ---
 
