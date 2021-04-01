@@ -8,7 +8,7 @@
 ```
 • CubeMate - Stylish Stopwatch for Speedcubing 🧩
 • Habitube – The Movie Library App 🎬
-• Master Thesis in CTU in Prague 👨🏻‍💻
+• Master Thesis at CTU Prague 👨🏻‍💻
 ```
 
 ---
