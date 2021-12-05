@@ -4,13 +4,6 @@
 
 #### I'am an enthusiastic Android Developer from Baku, Azerbaijan 🇦🇿 living in Prague, Czech Republic 🇨🇿 with more than 2 years of experience in designing, developing and maintaining Android Applications. Usually, keep an eye on modern approaches and innovate individual solutions.
 
-### Currently, I'm working on 🛠
-```
-• CubeMate - Stylish Stopwatch for Speedcubing 🧩
-• Habitube – The Movie Library App 🎬
-• Junky Converter - Dummy converter with Compose 👀
-```
-
 ---
 
 ### You can find me 👽
