@@ -2,4 +2,6 @@
 
 ### A little about Myself 👇🏽
 
-#### I'am an enthusiastic Android Developer from Baku, Azerbaijan 🇦🇿 living in Bristol, United Kingdom 🇬🇧 with 3 years of experience in designing, developing and maintaining Android Applications. Usually, keep an eye on modern approaches and innovate individual solutions.
+#### As an Android Developer based in Bristol, UK with over 3 years of professional experience, I possess a deep understanding of Android project development, design, and maintenance. My expertise spans across product and platform development, and I have a keen interest in adopting modern approaches and creating innovative solutions to meet project requirements.
+
+#### My website: https://siftoshka.github.io/
