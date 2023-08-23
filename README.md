@@ -2,6 +2,6 @@
 
 ### A little about Myself 👇🏽
 
-#### As an Android Developer based in Bristol, UK with over 3 years of professional experience, I possess a deep understanding of Android project development, design, and maintenance. My expertise spans across product and platform development, and I have a keen interest in adopting modern approaches and creating innovative solutions to meet project requirements.
+#### Android Developer with 4 years of experience in designing, developing, and maintaining Android applications. I love keeping up-to-date with modern approaches and coming up with unique, innovative solutions.
 
 #### My website: https://siftoshka.github.io/
